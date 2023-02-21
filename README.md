@@ -5,3 +5,4 @@ some small Java projects for practising
 - Rock-Paper-Scissor game
 - Roll game
 - Blackjack game
+- JavaPedia
