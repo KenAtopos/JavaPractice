@@ -6,3 +6,4 @@ some small Java projects for practising
 - Roll game
 - Blackjack game
 - JavaPedia
+- Tic Tac Toe game
